@@ -116,8 +116,8 @@ header nav ul li a:hover {
 
 .profile-image img {
   width: 200%;
-  max-width: 260px;
-  border-radius: 50%;
+  max-width: 360px;
+  border-radius: 60%;
   object-fit: cover;
 }
 
@@ -425,5 +425,6 @@ body.dark footer .social-icons a {
 body.dark footer .social-icons a:hover {
   color: var(--btn-hover-dark);
 }
+
 
 
