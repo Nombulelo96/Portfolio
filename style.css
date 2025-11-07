@@ -109,7 +109,7 @@ header nav ul li a:hover {
 }
 
 .profile-image {
-  width: 55%;
+  width: 75%;
   display: flex;
   justify-content: center;
 }
@@ -425,6 +425,7 @@ body.dark footer .social-icons a {
 body.dark footer .social-icons a:hover {
   color: var(--btn-hover-dark);
 }
+
 
 
 
